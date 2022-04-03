@@ -1,4 +1,4 @@
-# NoRussian
+# NoCurruptionSriLanka - Forked from ajax-lives/NoRussia [Originally used agaisnt Russia - Repurposed to be used against Curruption in Sri Lanka]
 ### Volunteer DoS tool via HTML + JS
 
 Made to be user friendly and simple to use - as to maximize the amount of people able to help.
@@ -8,7 +8,7 @@ Running the HTML locally on your device will run a DoS attack on Russian and Bel
 # Usage
 
 Run from source:
-Download as ZIP, and open index.html with your browser.
+Download as ZIP, and open index.html with your browser - Please use VPN, It is essential for your safety.
 
 ### Disclaimer / Warning
 
